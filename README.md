@@ -51,11 +51,7 @@ This project implements a complete machine learning pipeline for predicting bull
 bulldozer_price_regression/
 │
 ├── bluebook_bulldozer_price_regression.ipynb  # Main Jupyter notebook
-├── Train.csv                                   # Training dataset
-├── Valid.csv                                   # Validation dataset
-├── ValidSolution.csv                          # Validation ground truth
 ├── README.md                                   # Project documentation
-└── anaconda_projects/                         # Additional project files
 ```
 
 ## 🚀 Getting Started
@@ -148,7 +144,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Created by [Your Name]
+Created by Mehmet Er
 
 ## 🙏 Acknowledgments
 
